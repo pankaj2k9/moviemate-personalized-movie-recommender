@@ -1,6 +1,6 @@
 # MovieMate — Personalized Movie Recommender
 
-<img src="demo/6.jpeg" alt="demo banner" width="70%">
+<img src="demo/4.jpeg" alt="demo banner" width="70%">
 
 Content-based movie recommendation system built with Streamlit and the TMDB API. Recommends 5 similar movies based on cosine similarity of movie features.
 
